@@ -41,19 +41,19 @@ Provides a high-level summary of overall sales performance, including key metric
 
 ### 2. Platform Performance
 
-![Platform Analysis](Images/2.Platform-analysis.png)
+![Platform Analysis](Images/2.Platform%20analysis.png)
 
 Evaluates platform performance through recorded sales, game counts, average sales per game, historical platform trends, and sales efficiency.
 
 ### 3. Genre Analysis
 
-![Genre Analysis](Images/3.Genre-analysis.png)
+![Genre Analysis](Images/3.Genre%20analysis.png)
 
 Explores genre-level sales performance, average sales per game, game library size, and the relationship between genre scale and sales efficiency.
 
 ### 4. Publisher & Developer Analysis
 
-![Publisher and Developer Analysis](Images/4.Publisher-&-Developer-analysis.png)
+![Publisher and Developer Analysis](Images/4.Publisher%20&%20Developer%20analysis.png)
 
 Examines leading publishers and developers by recorded sales, publisher sales efficiency, and the relationship between publisher scale and sales performance.
 
